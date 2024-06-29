@@ -5,3 +5,8 @@ The objective of the project is to predict the captions for the input image. The
 Download link: https://www.kaggle.com/adityajn105/flickr8k
 
 Environment: Kaggle
+
+
+# Neural Network
+VGG16 Network
+CNN-LSTM Network
